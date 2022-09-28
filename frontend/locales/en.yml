@@ -1,0 +1,10 @@
+en:
+  reports:
+    basic_container_report:
+      title: Basic Container Report (LYRASIS)
+      description: Displays summary container information
+      identifier: Identifier
+      top_container_barcode: Container barcode
+      type: Type
+      indicator: Indicator
+      location_barcode: Location barcode
