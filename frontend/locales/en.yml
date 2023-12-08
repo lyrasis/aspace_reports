@@ -1,7 +1,16 @@
 en:
   reports:
+    accessions_by_agent_report:
+      title: Accessions with Agents (Lyrasis)
+      description: Displays accessions with linked agents
+      accession_number: Accession Number
+      create_time: Create Time
+      extent: Extent
+      names_name: Agent
+      names_function: Function
+      names_role: Role
     basic_container_report:
-      title: Basic Container Report (LYRASIS)
+      title: Basic Container Report (Lyrasis)
       description: Displays summary container information
       identifier: Identifier
       top_container_barcode: Container barcode
