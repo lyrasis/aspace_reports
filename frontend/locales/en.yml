@@ -34,3 +34,12 @@ en:
       names_name: Agent
       names_function: Function
       names_role: Role
+    resources_by_agent_report:
+      title: Resources with Agents (Lyrasis)
+      description: Displays resources with linked agents
+      resource_number: Resource Identifier
+      create_time: Create Time
+      extent: Extent
+      names_name: Agent
+      names_function: Function
+      names_role: Role
