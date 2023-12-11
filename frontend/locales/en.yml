@@ -9,6 +9,15 @@ en:
       names_name: Agent
       names_function: Function
       names_role: Role
+    archival_objects_by_agent_report:
+      title: Archival Objects with Agents (Lyrasis)
+      description: Displays archival objects with linked agents
+      component_id: Conponent ID
+      create_time: Create Time
+      extent: Extent
+      names_name: Agent
+      names_function: Function
+      names_role: Role
     basic_container_report:
       title: Basic Container Report (Lyrasis)
       description: Displays summary container information
