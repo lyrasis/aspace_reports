@@ -12,7 +12,7 @@ en:
     archival_objects_by_agent_report:
       title: Archival Objects with Agents (Lyrasis)
       description: Displays archival objects with linked agents
-      component_id: Conponent ID
+      component_id: Component ID
       create_time: Create Time
       extent: Extent
       names_name: Agent
@@ -26,3 +26,11 @@ en:
       type: Type
       indicator: Indicator
       location_barcode: Location barcode
+    digital_objects_by_agent_report:
+      title: Digital Objects with Agents (Lyrasis)
+      description: Displays digital objects with linked agents
+      digital_object_id: Digital Object ID
+      create_time: Create Time
+      names_name: Agent
+      names_function: Function
+      names_role: Role
