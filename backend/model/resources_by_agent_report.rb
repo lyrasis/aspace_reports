@@ -50,12 +50,12 @@ class ResourcesByAgentReport < AbstractReport
   def fix_row(row)
     ReportUtils.fix_identifier_format(row, :resource_number)
     row[:date] = ResourcesListDatesSubreport.new(self, row[:resource_system_id]).get_content
-		row[:extent] = ExtentSubreport.new(self, row[:resource_system_id]).get_content
+    row[:extent] = ExtentSubreport.new(self, row[:resource_system_id]).get_content
     row.delete(:resource_system_id)
   end
 
 	def record_type
-		'resource'
-	end
+    'resource'
+  end
 
 end

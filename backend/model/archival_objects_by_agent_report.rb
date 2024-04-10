@@ -55,7 +55,7 @@ class ArchivalObjectsByAgentReport < AbstractReport
   end
 
   def record_type
-		'archival_object'
-	end
+    'archival_object'
+  end
 
 end

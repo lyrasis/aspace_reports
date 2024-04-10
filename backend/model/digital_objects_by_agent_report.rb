@@ -54,7 +54,7 @@ class DigitalObjectsByAgentReport < AbstractReport
   end
 
   def record_type
-		'digital_object'
-	end
+    'digital_object'
+  end
 
 end
