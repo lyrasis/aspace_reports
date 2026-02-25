@@ -43,3 +43,18 @@ en:
       names_name: Agent
       names_function: Function
       names_role: Role
+    detailed_resource_instances_list_report:
+      title: Detailed Resources and Instances List (Lyrasis)
+      description: Displays resource(s) and additional detailed information.
+      indicator: Indicator
+      barcode: Barcode
+      container_type: Container Type
+      container_profile: Container Profile
+      resource_id: Resource ID
+      resource_title: Resource Title
+      series_title: Series Title
+      series_cuid: Series CUID
+      location: Location
+    check_urls:
+      title: Check URLs Report (Lyrasis)
+      description: Custom report to find URLs in notes, digital objects, and others and returns urls with error codes
