@@ -43,3 +43,6 @@ en:
       names_name: Agent
       names_function: Function
       names_role: Role
+    check_urls:
+      title: Check URLs Report (Lyrasis)
+      description: Custom report to find URLs in notes, digital objects, and others and returns urls with error codes
