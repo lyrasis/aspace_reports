@@ -46,3 +46,9 @@ en:
     check_urls:
       title: Check URLs Report (Lyrasis)
       description: Custom report to find URLs in notes, digital objects, and others and returns urls with error codes
+    family_names_by_resource_report:
+      title: Family Names with Resources (Lyrasis)
+      description: Displays Family name records with their linked Resource records. Temporary stand-in for the custom report template's Agent Type filter, which is broken in this ArchivesSpace version (ANW-2095).
+      name: Family Name
+      resource_number: Resource Identifier
+      resource_title: Resource Title
