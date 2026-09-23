@@ -46,3 +46,13 @@ en:
     check_urls:
       title: Check URLs Report (Lyrasis)
       description: Custom report to find URLs in notes, digital objects, and others and returns urls with error codes
+    repository_mismatch_report:
+      title: Repository Mismatch Report (Lyrasis)
+      description: Finds archival objects whose repository does not match their resource or parent, often left by a failed transfer or move. Checks all repositories.
+      problem: Problem
+      archival_object_id: Archival Object ID
+      ref_id: Ref ID
+      ao_title: Title
+      ao_repository: AO Repository
+      expected_repository: Expected Repository
+      related_record_id: Related Record
